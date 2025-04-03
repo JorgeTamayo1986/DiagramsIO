@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2025-04-03T03:22:21.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" etag="yKgtTru1-RjVqdiR20wp" version="24.6.2" type="github">
+  <diagram name="Página-1" id="5TP-bbgf2JVW4y3Afo_B">
+    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1k7N4DIeuKbtynAKQfN6-3" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="30" width="450" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="1k7N4DIeuKbtynAKQfN6-2" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="210" y="80" width="310" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="1k7N4DIeuKbtynAKQfN6-1" value="Core" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="100" width="170" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
