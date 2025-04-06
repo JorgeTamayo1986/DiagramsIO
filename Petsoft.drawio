@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7BlhK_Sb44Tu6MLW47Kn-22" value="Server" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="340" y="30" width="170" height="300" as="geometry" />
+          <mxGeometry x="340" y="30" width="360" height="300" as="geometry" />
         </mxCell>
         <mxCell id="7BlhK_Sb44Tu6MLW47Kn-24" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" parent="7BlhK_Sb44Tu6MLW47Kn-22" vertex="1">
           <mxGeometry x="54" y="48" width="50" height="50" as="geometry" />
