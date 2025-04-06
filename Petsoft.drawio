@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7BlhK_Sb44Tu6MLW47Kn-22" value="Server" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="340" y="30" width="360" height="300" as="geometry" />
+          <mxGeometry x="340" y="30" width="340" height="300" as="geometry" />
         </mxCell>
         <mxCell id="7BlhK_Sb44Tu6MLW47Kn-24" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" parent="7BlhK_Sb44Tu6MLW47Kn-22" vertex="1">
           <mxGeometry x="54" y="48" width="50" height="50" as="geometry" />
@@ -101,7 +101,19 @@
           <mxGeometry x="90" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fcScC6DPo2DDZxpifk3k-27" value="PetSofServices" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="365" y="-2" width="110" height="30" as="geometry" />
+          <mxGeometry x="430" y="-10" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fcScC6DPo2DDZxpifk3k-28" value="Mobile Client" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="350" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fcScC6DPo2DDZxpifk3k-29" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Exchange_On_Premises_Access.svg;" vertex="1" parent="fcScC6DPo2DDZxpifk3k-28">
+          <mxGeometry x="75" y="66" width="40" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="fcScC6DPo2DDZxpifk3k-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.908;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fcScC6DPo2DDZxpifk3k-29" target="7BlhK_Sb44Tu6MLW47Kn-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fcScC6DPo2DDZxpifk3k-31" value="Xamarin Apk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="318" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
